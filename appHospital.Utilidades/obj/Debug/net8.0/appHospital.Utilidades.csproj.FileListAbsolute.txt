@@ -1,0 +1,22 @@
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Utilidades\bin\Debug\net8.0\appHospital.Utilidades.deps.json
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Utilidades\bin\Debug\net8.0\appHospital.Utilidades.dll
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Utilidades\bin\Debug\net8.0\appHospital.Utilidades.pdb
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\appHospital.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\appHospital.Utilidades.AssemblyInfoInputs.cache
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\appHospital.Utilidades.AssemblyInfo.cs
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\appHospital.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\appHospital.Utilidades.dll
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\refint\appHospital.Utilidades.dll
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\appHospital.Utilidades.pdb
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\ref\appHospital.Utilidades.dll
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Utilidades\bin\Debug\net8.0\appHospital.Utilidades.deps.json
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Utilidades\bin\Debug\net8.0\appHospital.Utilidades.dll
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Utilidades\bin\Debug\net8.0\appHospital.Utilidades.pdb
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\appHospital.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\appHospital.Utilidades.AssemblyInfoInputs.cache
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\appHospital.Utilidades.AssemblyInfo.cs
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\appHospital.Utilidades.csproj.CoreCompileInputs.cache
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\appHospital.Utilidades.dll
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\refint\appHospital.Utilidades.dll
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\appHospital.Utilidades.pdb
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Utilidades\obj\Debug\net8.0\ref\appHospital.Utilidades.dll

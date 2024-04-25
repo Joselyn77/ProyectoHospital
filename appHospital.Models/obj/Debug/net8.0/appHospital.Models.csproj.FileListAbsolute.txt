@@ -1,0 +1,35 @@
+C:\Users\navia\Downloads\Programacion web2\Proyect\appHospital.Models\bin\Debug\net8.0\appHospital.Models.deps.json
+C:\Users\navia\Downloads\Programacion web2\Proyect\appHospital.Models\bin\Debug\net8.0\appHospital.Models.dll
+C:\Users\navia\Downloads\Programacion web2\Proyect\appHospital.Models\bin\Debug\net8.0\appHospital.Models.pdb
+C:\Users\navia\Downloads\Programacion web2\Proyect\appHospital.Models\obj\Debug\net8.0\appHospital.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navia\Downloads\Programacion web2\Proyect\appHospital.Models\obj\Debug\net8.0\appHospital.Models.AssemblyInfoInputs.cache
+C:\Users\navia\Downloads\Programacion web2\Proyect\appHospital.Models\obj\Debug\net8.0\appHospital.Models.AssemblyInfo.cs
+C:\Users\navia\Downloads\Programacion web2\Proyect\appHospital.Models\obj\Debug\net8.0\appHospital.Models.csproj.CoreCompileInputs.cache
+C:\Users\navia\Downloads\Programacion web2\Proyect\appHospital.Models\obj\Debug\net8.0\appHospital.Models.dll
+C:\Users\navia\Downloads\Programacion web2\Proyect\appHospital.Models\obj\Debug\net8.0\refint\appHospital.Models.dll
+C:\Users\navia\Downloads\Programacion web2\Proyect\appHospital.Models\obj\Debug\net8.0\appHospital.Models.pdb
+C:\Users\navia\Downloads\Programacion web2\Proyect\appHospital.Models\obj\Debug\net8.0\ref\appHospital.Models.dll
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Models\bin\Debug\net8.0\appHospital.Models.deps.json
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Models\bin\Debug\net8.0\appHospital.Models.dll
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Models\bin\Debug\net8.0\appHospital.Models.pdb
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.AssemblyInfoInputs.cache
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.AssemblyInfo.cs
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.csproj.CoreCompileInputs.cache
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.dll
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Models\obj\Debug\net8.0\refint\appHospital.Models.dll
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.pdb
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Models\obj\Debug\net8.0\ref\appHospital.Models.dll
+C:\Users\navia\Downloads\Programacion web2\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.csproj.AssemblyReference.cache
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Models\bin\Debug\net8.0\appHospital.Models.deps.json
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Models\bin\Debug\net8.0\appHospital.Models.dll
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Models\bin\Debug\net8.0\appHospital.Models.pdb
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.csproj.AssemblyReference.cache
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.AssemblyInfoInputs.cache
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.AssemblyInfo.cs
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.csproj.CoreCompileInputs.cache
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.dll
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Models\obj\Debug\net8.0\refint\appHospital.Models.dll
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Models\obj\Debug\net8.0\appHospital.Models.pdb
+C:\materias de la universidad\ProWebII\Proyect2\appHospital.Models\obj\Debug\net8.0\ref\appHospital.Models.dll
